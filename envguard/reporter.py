@@ -167,7 +167,7 @@ def format_sarif(findings: list[Finding]) -> str:
                     "driver": {
                         "name": "envguard",
                         "version": "0.1.0",
-                        "informationUri": "https://github.com/orianna1510-code/envguard",
+                        "informationUri": "https://github.com/oriannadev/envguard",
                         "rules": rule_descriptors,
                     }
                 },

@@ -15,7 +15,7 @@ Secret leaks are one of the most common and costly security failures in software
 
 ```bash
 # Clone the repository
-git clone https://github.com/orianna1510-code/envguard.git
+git clone https://github.com/oriannadev/envguard.git
 cd envguard
 
 # Install in development mode
@@ -152,7 +152,7 @@ jobs:
           python-version: "3.12"
 
       - name: Install envguard
-        run: pip install git+https://github.com/orianna1510-code/envguard.git
+        run: pip install git+https://github.com/oriannadev/envguard.git
 
       - name: Scan for secrets
         run: envguard scan .

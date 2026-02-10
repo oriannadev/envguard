@@ -43,9 +43,9 @@ dev = [
 envguard = "envguard.cli:main"
 
 [project.urls]
-Homepage = "https://github.com/orianna1510-code/envguard"
-Repository = "https://github.com/orianna1510-code/envguard"
-Issues = "https://github.com/orianna1510-code/envguard/issues"
+Homepage = "https://github.com/oriannadev/envguard"
+Repository = "https://github.com/oriannadev/envguard"
+Issues = "https://github.com/oriannadev/envguard/issues"
 
 [tool.setuptools.packages.find]
 include = ["envguard*"]
