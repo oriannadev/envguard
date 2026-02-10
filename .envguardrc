@@ -1,0 +1,8 @@
+{
+    "allowlist": [
+        {
+            "path": "tests/test_fixtures/",
+            "reason": "Test fixtures contain intentionally fake secrets for unit testing"
+        }
+    ]
+}
